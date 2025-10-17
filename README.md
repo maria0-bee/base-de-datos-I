@@ -13,8 +13,8 @@ Cada carpeta corresponde a una de las tareas solicitadas en clase.
 
 ---
 
-## 👩‍💻 Miembros del Equipo  
-- **Líder:** María Fernanda Rodríguez Tuberquia  
+##  Miembros del Equipo  
+
 - **Integrante:**  Maria Fernanda Rodríguez Tuberquia  
 - **Integrante:** Juan Felipe Serna Bedoya  
 
