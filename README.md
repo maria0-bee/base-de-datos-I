@@ -16,8 +16,9 @@ Cada carpeta corresponde a una de las tareas solicitadas en clase.
 ##  Miembros del Equipo  
 
 - **Integrante:**  Maria Fernanda Rodríguez Tuberquia  
-- **Integrante:** Juan Felipe Serna Bedoya  
-
+- **Integrante:** Juan Felipe Serna Bedoya
+- **Integrante:** Diego Camilo Ordoñez Bustos
+- **Integrante:** Juan Camilo Valencia Estrada
 
 
 
